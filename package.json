@@ -1,0 +1,27 @@
+{
+  "name": "partial-geometric-series",
+  "version": "1.0.0",
+  "description": "Returns partial sum of geometric series",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test/test.js"
+  },
+  "keywords": [
+    "partial",
+    "geometric",
+    "series",
+    "sum",
+    "estimate",
+    "converge"
+  ],
+  "author": "Jershon Lopez",
+  "license": "MIT",
+  "devDependencies": {
+    "tape": "^4.4.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jylopez/partial-geometric-series.git"
+  },
+  "homepage": "https://github.com/jylopez/partial-geometric-series"
+}
