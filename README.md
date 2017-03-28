@@ -11,7 +11,7 @@ npm install partial-geometric-series
 
 ``` js
 /*
-Return the partial sum of a geomt
+Return the partial sum of a geomtric series
 */
 
 var p = require('partial-geometric-series');
