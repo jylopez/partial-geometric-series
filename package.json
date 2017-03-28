@@ -12,7 +12,8 @@
     "series",
     "sum",
     "estimate",
-    "converge"
+    "converge",
+    "sequence"
   ],
   "author": "Jershon Lopez",
   "license": "MIT",
